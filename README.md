@@ -1,7 +1,8 @@
 ## Eugenia Guerrero
 [Skills](#skills) | [Projects](#projects)  | [Education](#education) | [Experience](#experience) | [Languages](#languages)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a King’s College London Political Economy graduate with practical experience of research and finance. Previous personal and professional experiences have highlighted the differing powerful applications of software, encouraging me to dedicate myself to software development. I am learning the principles of software craftsmanship at [Makers Academy] (http://www.makersacademy.com), Europe's leading Web Developer bootcamp.
+I'm looking for a role as a Junior Full-Stack Developer, which would build on my existing skills and knowledge base whilst challenging me on a day-to-day basis.
 
 ## Skills
 
