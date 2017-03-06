@@ -1,4 +1,5 @@
 ## Eugenia Guerrero
+[Skills](#skills) | [Projects](#projects)  | [Education](#education) | [Experience](#experience) | [Languages](#languages)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -20,6 +21,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+## Projects
+
+Project title | Description | Development timeframe | Technologies | Testing
+--------------|-------------|-----------------------|--------------|---------
 
 
 ## Education
@@ -67,5 +73,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 ## Languages
-- Fluent in English, French, and Spanish.
+- Native English, Spanish, and French speaker.
 - Elementary proficiency in Mandarin (Chinese).
