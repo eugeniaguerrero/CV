@@ -36,7 +36,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### King's College London (September 2013 to June 2016)
 
 - BA in Political Economy
-- Graduated with a high 2:1 (68 overall), earning a first (77%) in my dissertation.
+- Graduated with a high 2:1 (68% overall), earning a first (77%) in my dissertation.
 - Associate editor of the Economics magazine (2015-2016), secretary of King's College London Boat Club (2014-2015), student representative (2013-2014).
 
 #### Lycée Français Charles de Gaulle
@@ -56,14 +56,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Nacional Financiera** (February 2015 to March 2015; June 2014 to July 2014)   
 *Research Assistant*  
 
-**Embassy of Mexico in London** (August 2013 to September 2013)
+**Embassy of Mexico in London** (August 2013 to September 2013)    
+*Summer Intern*  
+
+**ProMexico** (August 2012)   
 *Summer Intern*
 
-**ProMexico** (August 2012)
-*Summer Intern*
+**British Red Cross** (June 2011)    
+*Work Experience*  
 
-**British Red Cross** (June 2011)
-*Work Experience*
 
 ## Languages
 - Fluent in English, French, and Spanish.
