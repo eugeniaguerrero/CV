@@ -53,10 +53,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Nacional Financiera** (February 2015 to March 2015; June 2014 to July 2014)   
 *Research Assistant*  
 **Embassy of Mexico in London** (August 2013 to September 2013)
+
 *Summer Intern*
+
 **ProMexico** (August 2012)
+
 *Summer Intern*
+
 **British Red Cross** (June 2011)
+
 *Work Experience*
 
 ## Languages
