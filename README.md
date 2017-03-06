@@ -46,22 +46,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Policy Network** (January 2017 to March 2017; September 2016 to November 2016)    
 *Policy Research Intern*  
+
 **King's College London** (June 2016 to August 2016; June 2015 to July 2015)   
 *Research Fellow*  
+
 **Elixium** (September 2015 to December 2015)   
 *Product Development Intern*  
+
 **Nacional Financiera** (February 2015 to March 2015; June 2014 to July 2014)   
 *Research Assistant*  
-**Embassy of Mexico in London** (August 2013 to September 2013)
 
+**Embassy of Mexico in London** (August 2013 to September 2013)
 *Summer Intern*
 
 **ProMexico** (August 2012)
-
 *Summer Intern*
 
 **British Red Cross** (June 2011)
-
 *Work Experience*
 
 ## Languages
