@@ -4,8 +4,7 @@
 I am a full-stack developer with an interest in Ruby, JavaScript, and agile
 methodologies.
 
-I am a King’s College London Political Economy graduate with practical experience of research and finance. Previous personal and professional experiences have highlighted the differing powerful applications of software, encouraging me to dedicate myself to software development. I am learning the principles of software craftsmanship at [Makers Academy] (http://www.makersacademy.com), Europe's leading Web Developer bootcamp.
-I'm looking for a role as a Junior Full-Stack Developer, which would build on my existing skills and knowledge base whilst challenging me on a day-to-day basis.
+I am a King’s College London Political Economy graduate with practical experience of research and finance. Previous personal and professional experiences have highlighted the differing powerful applications of software, encouraging me to dedicate myself to software development. I'm looking for a role as a Junior Full-Stack Developer, which would build on my existing skills and knowledge base whilst challenging me on a day-to-day basis.
 
 ## Skills
 
@@ -13,7 +12,9 @@ I'm looking for a role as a Junior Full-Stack Developer, which would build on my
 
 Project title | Description | Development timeframe | Technologies | Testing
 --------------|-------------|-----------------------|--------------|---------
-
+[Pi OS](https://github.com/freddyfallon/raspberry-pi-os) | A lightweight operating system built to boot on a Raspberry Pi v1 | 1 week | ARM Assembly | Used loops and manipulated input/output GPIO to test that the OS was booting correctly
+[GalaxyGram](https://github.com/eugeniaguerrero/instagram-challenge) | Description | 1 weekend | Ruby on Rails | Rspec
+[Dusty](https://github.com/nazwhale/dusty) | A lightweight JavaScript testing framework | 1 day | JavaScript |
 
 ## Education
 
