@@ -13,7 +13,7 @@ I am a King’s College London Political Economy graduate with practical experie
 Project title | Description | Development timeframe | Technologies | Testing
 --------------|-------------|-----------------------|--------------|---------
 [Pi OS](https://github.com/freddyfallon/raspberry-pi-os) | A lightweight operating system built to boot on a Raspberry Pi v1 | 1 week | ARM Assembly | Used loops and manipulated input/output GPIO to test that the OS was booting correctly
-[GalaxyGram](https://github.com/eugeniaguerrero/instagram-challenge) | An Instagram for photos of stars and galaxies | 1 weekend | Ruby on Rails | Rspec
+[GalaxyGram](https://github.com/eugeniaguerrero/instagram-challenge) | An Instagram for photos of stars and galaxies | 1 weekend | Ruby on Rails, HTML, CSS | Rspec
 [Dusty](https://github.com/nazwhale/dusty) | A lightweight JavaScript testing framework | 1 day | JavaScript |
 
 ## Education
