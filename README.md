@@ -20,7 +20,7 @@ Project title | Description | Development timeframe | Technologies | Testing
 [Alexa Sous Chef](https://github.com/exchai93/alexa_sous_chef)| A virtual cooking assistant built for the Amazon Echo | 9 days | Ruby, JSON, APIs | Fully test-driven with RSpec
 [Pi OS](https://github.com/freddyfallon/raspberry-pi-os) | A lightweight operating system built to boot on a Raspberry Pi v1 | 1 week | ARM Assembly | Used loops and manipulated input/output GPIO to test that the OS was booting correctly
 [GalaxyGram](https://github.com/eugeniaguerrero/instagram-challenge) | An Instagram for photos of stars and galaxies | 1 weekend | Ruby on Rails, HTML, CSS | RSpec
-[Dusty](https://github.com/nazwhale/dusty) | A lightweight JavaScript testing framework | 1 day | JavaScript |
+[Dusty](https://www.npmjs.com/package/dusty-testing) | A lightweight JavaScript testing framework | 1 day | JavaScript |
 
 ## Education
 
