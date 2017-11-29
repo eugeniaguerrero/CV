@@ -1,13 +1,12 @@
 ## Eugenia Guerrero
 [Skills](#skills) | [Projects](#projects)  | [Education](#education) | [Experience](#experience) | [Languages](#languages)
 
-I am a full-stack developer with an interest in Ruby, hardware, and agile
-methodologies.
+I am a full-stack developer with an interest in back-end roles. I'm interested in Machine Learning, hardware, and agile methodologies.
 
-I have practical experience in research and finance. Previous personal and professional experiences have highlighted the differing powerful applications of software, encouraging me to dedicate myself to software development. I'm looking for a role as a Junior Full-Stack Developer, which would build on my existing skills and knowledge base whilst challenging me on a day-to-day basis.
+I have practical experience in research and finance. Previous personal and professional experiences have highlighted the differing powerful applications of software, encouraging me to dedicate myself to software enginerring. I'm currently doing an MSc in Computing Science at Imperial, which is an intense course that I feel will make me a more informed, more conscientious software engineer. 
 
 ## Skills
-- I have previous experience working in teams of all sizes, whether in a professional or sports setting. Pairing and working in teams throughout the past three months has built upon and enhanced my capacity to understand the needs of a prospective client and work in an agile manner to deliver the optimal outcome for both the client and the business.
+- I have previous experience working in teams of all sizes, whether in a professional or sports setting. Pairing and working in teams throughout past tasks and in my last software development role has built upon and enhanced my capacity to understand the needs of a prospective client and work in an agile manner to deliver the optimal outcome for both the client and the business.
 
 - I am an effective communicator, whether it be with a pair partner or in a group setting. This is due to both professional and personal experiences highlighting the importance of communication. I rowed for three years at university, during which I was a coxswain for the men's squad, a position where effective and concise communication and unity meant the difference between coming together as a team or splintering apart. Seeing the impact that communication had on the team heightened my interest towards giving and receiving feedback, which is something that I've integrated on a daily basis since then.
 
@@ -23,13 +22,21 @@ Project title | Description | Development timeframe | Technologies | Testing
 [Dusty](https://www.npmjs.com/package/dusty-testing) | A lightweight JavaScript testing framework | 1 day | JavaScript |
 
 ## Education
+#### Imperial College London (October 2017 to October 2018)
+
+Autumn term modules:
+- Object Orientated Programming in C++
+- Logic and Artificial Intelligence Programming (with Sicstus Prolog)
+- Computer Architecture
+- Operating Systems
+
 
 #### Makers Academy (March 2017 to June 2017)
 
-- Curiosity and hungry passion for code
+- Curiosity for understanding how programming can solve real-world needs
+- The main focus was on object-orientated programming in Ruby and JavaScript
 - Independent learner and problem-solver
-- Object-orientated programming, Test-Driven Development
-- Software Craftsmanship
+- Application of Agile methodologies, such as test-driven development and good code modularity
 
 #### King's College London (September 2013 to June 2016)
 
